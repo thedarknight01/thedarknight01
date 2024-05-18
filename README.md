@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-     <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01"  />
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
 </div>
 
 ###
 
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Nitin here!😊</h1>
 
-###
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Kratos1051)
 
 
 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   <p>- 🔖 I’m learning Machine Learning, Deep Learning, and Backend Development. <br> -  👀 I'm open to collaborating on open-source projects.</p>
 
 <p align="left">
-<a href="https://x.com/Kratos1051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/nitin-tiwari4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
 </p>
 
