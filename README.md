@@ -14,23 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt=""  />
+    <img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" width="100px" hieght="100px">
+     
 </div>
 
 ###
-
-
-###
-
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" >
-     <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Nitin here!😊</h1>
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Nitin here!😊</h1><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
+<div>
 
 
 
@@ -73,3 +69,6 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt=""  />
+</div>
