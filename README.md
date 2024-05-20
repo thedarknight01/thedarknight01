@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  
 <div align="center">
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlenJtYTZiY3RucnM2ZzdjZ3F1dGFpY3JxcGM4eHVncjd0dHY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="300px">
+ 
 ### Hi there 👋 I'm Nitin Tiwari!
 ##### from 🗺️ BHARAT <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1NGh2bTQ2OHB4c2w1ejkybDRnaXlwbjh2Zm1oYmliN203OWFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ko3ZmwnSOpPmPkBsb/giphy.gif" height="20px" width="20px">
 
