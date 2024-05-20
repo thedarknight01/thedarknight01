@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
  
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNiNHhubTV1NDQ5ZmY2NHd1YWJjc3VuenlnNzQ4d2w2cTBhd3FnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" style="mix-blend-mode:difference;" width="500" alt="Coder GIF">
-
+<div align="center">
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlenJtYTZiY3RucnM2ZzdjZ3F1dGFpY3JxcGM4eHVncjd0dHY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="300px">
 ### Hi there 👋 I'm Nitin Tiwari!
 ##### from 🗺️ BHARAT <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1NGh2bTQ2OHB4c2w1ejkybDRnaXlwbjh2Zm1oYmliN203OWFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ko3ZmwnSOpPmPkBsb/giphy.gif" height="20px" width="20px">
 
