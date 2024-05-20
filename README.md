@@ -15,60 +15,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />-->
+ 
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNiNHhubTV1NDQ5ZmY2NHd1YWJjc3VuenlnNzQ4d2w2cTBhd3FnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" style="mix-blend-mode:difference;" width="500" alt="Coder GIF">
 
+### Hi there 👋 I'm Nitin Tiwari!
+##### from 🗺️ BHARAT <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1NGh2bTQ2OHB4c2w1ejkybDRnaXlwbjh2Zm1oYmliN203OWFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ko3ZmwnSOpPmPkBsb/giphy.gif" height="20px" width="20px">
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" width="100px" hieght="100px">
-     
-</div>
+Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to exciting projects. Here you'll find some of my latest work and projects that I'm proud to share.
 
-###
-<div align="center">
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Nitin here!😊</h1><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
+## 🚀 About Me
+<UL align="left">
+<li>💻 Full Stack Developer with a focus on dynamic and responsive web applications.</li>
+<li> 📚 Lifelong learner currently exploring new technologies and tools.</li>
+<li> 🎓 [Your Degree] in [Your Major] from [Your University].</li>
+<li> 🌟 Fun fact: [A unique or fun fact about you].</li>
+</UL>
+
+## 🛠️ Technologies & Tools
+
+Here are some of the tools and technologies I work with:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+## 📈 GitHub Stats
 <div>
 
-
-
-
-
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">From India 🇮🇳<br><br>
-  <img align="right" height="300" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
-  <p>- 🔖 I’m learning Machine Learning, Deep Learning, and Backend Development. <br> -  👀 I'm open to collaborating on open-source projects.</p>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/nitin-tiwari4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  
+![NITIN TIWARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarknight01&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarknight01&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" height="200px"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=thedarknight01&row=2&column=3&theme=gruvbox" height="250px">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+## 📫 How to reach me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt=""  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-tiwari4/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thedarknight01) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+
+
+###### Feel free to explore and contribute to any of my repositories. Your feedback and suggestions are always welcome!
+
+##### Thanks for stopping by! 😄
+<div>
+
