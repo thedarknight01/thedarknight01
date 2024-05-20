@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 
 Here are some of the tools and technologies I work with:
 
+![C](https://img.shields.io/badge/C-6B478E?style=flat-square&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,6 +51,13 @@ Here are some of the tools and technologies I work with:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Mac-OS](https://img.shields.io/badge/MAC%20OS%20-949494?style=flat-square&logo=macos&logoColor=white)
+![Windowa](https://img.shields.io/badge/Windows%20-1564B2?style=flat-square&logo=windows&logoColor=white) 
+![Kali-Linux](https://img.shields.io/badge/Kali%20Linux%20%20-CB6651?style=flat-square&logo=kalilinux&logoColor=white)
+![Google-cloud](https://img.shields.io/badge/Google%20Cloud%20-FFE084?style=flat-square&logo=google%20cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-E5C976?style=flat-square&logo=Amazon&logoColor=white)
+
+
 
 ## 📈 GitHub Stats
 <div>
