@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />-->
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
  
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNiNHhubTV1NDQ5ZmY2NHd1YWJjc3VuenlnNzQ4d2w2cTBhd3FnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" style="mix-blend-mode:difference;" width="500" alt="Coder GIF">
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 
 ## 🚀 About Me
 <UL align="left">
-<li>💻 Full Stack Developer with a focus on dynamic and responsive web applications.</li>
+<li>💻 Full Stack Developer focusing on dynamic and responsive web applications.</li>
 <li> 📚 Lifelong learner currently exploring new technologies and tools.</li>
 <li> 🎓 [Your Degree] in [Your Major] from [Your University].</li>
 <li> 🌟 Fun fact: [A unique or fun fact about you].</li>
@@ -61,7 +61,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-tiwari4/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thedarknight01) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-tiwari4/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thedarknight01) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skyy_sooon)
 
 
 ###### Feel free to explore and contribute to any of my repositories. Your feedback and suggestions are always welcome!
