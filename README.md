@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
  
 <div align="center">
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlenJtYTZiY3RucnM2ZzdjZ3F1dGFpY3JxcGM4eHVncjd0dHY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="300px">
@@ -61,8 +59,9 @@ Here are some of the tools and technologies I work with:
 
 ## 📈 GitHub Stats
 <div>
-
-![NITIN TIWARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarknight01&show_icons=true&theme=radical)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedarknight01&theme=radical)
+![thedarknight01's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarknight01&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarknight01&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" height="200px"><br>
 <img src="https://github-profile-trophy.vercel.app/?username=thedarknight01&row=2&column=3&theme=gruvbox" height="250px">
 </div>
