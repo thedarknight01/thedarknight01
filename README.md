@@ -23,7 +23,7 @@
   GeeksforGeeks : <a href="https://www.geeksforgeeks.org/user/nitintr/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-4CB990?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
   <a><br>
-  TryHackme     : <a href=""><img src="https://tryhackme-badges.s3.amazonaws.com/nitintr788.png" alt="TryHackMe"><a>
+  TryHackme     : <a href="https://tryhackme.com/p/nitintr788"><img src="https://tryhackme-badges.s3.amazonaws.com/nitintr788.png" alt="TryHackMe"><a>
   <hr>
   
 ### Languages :
