@@ -73,11 +73,10 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  ![An image of Nitin Tiwari Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaytr)
-  ![An image of @thedarknight01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedarknight01)
+
   
-  <img src="https://holopin.me/udaytr">
   <img src="https://holopin.me/thedarknight01">
+  <img src="https://holopin.me/udaytr">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarknight01&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="Top Languages" style="width:300px;hieght:200px" />
   
